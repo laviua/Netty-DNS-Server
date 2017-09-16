@@ -9,7 +9,6 @@ bin
 *.iml
 *~
 OSGI-INF
-META-INF
 .pmd
 .ruleset
 pmd-*
